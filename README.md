@@ -22,6 +22,8 @@ open cmd en typ de volgende zinnen:
 
 - php artisan migrate (en schrijf 'yes' om de database te maken)
 
+(- als php artisan niet werkt run 'composer install')
+
 - npm install
 
 - npm run dev
